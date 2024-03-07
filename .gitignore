@@ -2,3 +2,4 @@ temp/
 tmp/
 baks/
 *.log
+.DS_Store
